@@ -1,0 +1,21 @@
+EmployeeId,Age,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
+1447,26,Yes,Non-Travel,265,Sales,29,College,Medical,Medium,Male,79,Low,2,Sales Executive,Low,Single,4969,21813,8,No,18,Excellent,Very High,0,7,6,Excellent,2,2,2,2
+1450,34,No,Travel_Rarely,629,Research & Development,27,College,Medical,Very High,Female,95,High,1,Research Scientist,Medium,Single,2311,5711,2,No,15,Excellent,Very High,0,9,3,Excellent,3,2,1,2
+1451,51,No,Travel_Frequently,968,Research & Development,6,College,Medical,Medium,Female,40,Medium,1,Laboratory Technician,High,Single,2838,4257,0,No,14,Excellent,Medium,0,8,6,Good,7,0,7,7
+1452,38,No,Travel_Rarely,322,Sales,7,College,Medical,Low,Female,44,Very High,2,Sales Executive,Low,Divorced,5605,19191,1,Yes,24,Outstanding,High,1,8,3,Excellent,8,0,7,7
+1453,44,No,Travel_Rarely,661,Research & Development,9,College,Life Sciences,Medium,Male,61,High,1,Research Scientist,Low,Married,2559,7508,1,Yes,13,Excellent,Very High,0,8,0,Excellent,8,7,7,1
+1454,42,No,Travel_Frequently,532,Research & Development,29,College,Life Sciences,Low,Female,92,High,2,Research Scientist,High,Divorced,4556,12932,2,No,11,Excellent,Medium,1,19,3,Excellent,5,4,0,2
+1455,38,No,Travel_Rarely,827,Research & Development,1,Master,Life Sciences,Medium,Female,33,Very High,2,Healthcare Representative,Very High,Single,7625,19383,0,No,13,Excellent,High,0,10,4,Good,9,7,1,8
+1456,40,Yes,Travel_Rarely,299,Sales,25,Master,Marketing,Very High,Male,57,Medium,3,Sales Executive,Medium,Single,9094,17235,2,Yes,12,Excellent,High,0,9,2,Excellent,5,4,1,0
+1457,34,No,Travel_Rarely,1153,Research & Development,1,College,Medical,Low,Male,94,High,2,Manufacturing Director,Medium,Married,4325,17736,1,No,15,Excellent,High,0,5,2,Excellent,5,2,1,3
+1458,29,Yes,Travel_Rarely,896,Research & Development,18,Below College,Medical,High,Male,86,Medium,1,Research Scientist,Very High,Single,2389,14961,1,Yes,13,Excellent,High,0,4,3,Good,4,3,0,1
+1459,27,No,Travel_Rarely,1167,Research & Development,4,College,Life Sciences,Low,Male,76,High,1,Research Scientist,High,Divorced,2517,3208,1,No,11,Excellent,Medium,3,5,2,Excellent,5,3,0,3
+1460,54,No,Travel_Rarely,1217,Research & Development,2,Master,Technical Degree,Low,Female,60,High,3,Research Director,High,Married,13549,24001,9,No,12,Excellent,Low,1,16,5,Low,4,3,0,3
+1461,48,No,Non-Travel,1262,Research & Development,1,Master,Medical,Low,Male,35,Very High,4,Manager,Very High,Single,16885,16154,2,No,22,Outstanding,High,0,27,3,Good,5,4,2,1
+1462,44,No,Travel_Rarely,1467,Research & Development,20,Bachelor,Life Sciences,Very High,Male,49,High,1,Research Scientist,Medium,Single,3420,21158,1,No,13,Excellent,High,0,6,3,Good,5,2,1,3
+1464,53,No,Travel_Rarely,238,Sales,1,Below College,Medical,Very High,Female,34,High,2,Sales Executive,Low,Single,8381,7507,7,No,20,Outstanding,Very High,0,18,2,Outstanding,14,7,8,10
+1465,28,Yes,Non-Travel,1366,Research & Development,24,College,Technical Degree,Medium,Male,72,Medium,3,Healthcare Representative,Low,Single,8722,12355,1,No,12,Excellent,Low,0,10,2,Good,10,7,1,9
+1466,38,No,Travel_Rarely,168,Research & Development,1,Bachelor,Life Sciences,High,Female,81,High,3,Manufacturing Director,High,Single,7861,15397,4,Yes,14,Excellent,Very High,0,10,4,Outstanding,1,0,0,0
+1468,28,Yes,Travel_Rarely,1485,Research & Development,12,Below College,Life Sciences,High,Female,79,High,1,Laboratory Technician,Very High,Married,2515,22955,1,Yes,11,Excellent,Very High,0,1,4,Good,1,1,0,0
+1469,40,No,Non-Travel,458,Research & Development,16,College,Life Sciences,High,Male,74,High,1,Research Scientist,High,Divorced,3544,8532,9,No,16,Excellent,Medium,1,6,0,Excellent,4,2,0,0
+1470,19,Yes,Travel_Frequently,602,Sales,1,Below College,Technical Degree,High,Female,100,Low,1,Sales Representative,Low,Single,2325,20989,0,No,21,Outstanding,Low,0,1,5,Outstanding,0,0,0,0
