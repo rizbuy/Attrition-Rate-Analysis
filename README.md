@@ -46,7 +46,7 @@ Setup environment:
 
 [Jaya Jaya Maju Employees Dashboard](https://lookerstudio.google.com/reporting/c861ad31-9b42-4c5f-a854-fd19a9c3b03b), dashboard ini memberikan insight kepada para stakeholder terkait tingkat attrition yang cukup tinggi hingga lebih dari 10%. visualisasi berbagai faktor pada dashboard ini memudahkan para stakeholder untuk meninjau variabel yang berpengaruh pada tingginya tingkat attrition pada perusahaan Jaya Jaya Maju
 
-![Jaya Jaya Maju Attrition Analysis](rizbuy_Dashboard.jpg)
+![Jaya Jaya Maju Attrition Analysis](Looker Studio Dashboard.jpg)
 
 Analisis Dashboard Attrition
 Dashboard ini menyajikan visualisasi data untuk memantau indikator utama dan faktor-faktor yang mempengaruhi attrition (pengunduran diri) karyawan. Secara garis besar, data menunjukkan jumlah karyawan aktif sebanyak 879 orang dengan total attrition 179 orang, sehingga menghasilkan Attrition Rate sebesar 16.92%.
@@ -105,3 +105,4 @@ Mengevaluasi kembali apakah karyawan yang "Jarangi bepergian" (Rarely Travel) me
 - Penguatan Engagement untuk Karyawan Single:
 
 Membangun program keterlibatan karyawan (employee engagement) yang lebih dinamis agar karyawan lajang merasa lebih terikat secara emosional dengan komunitas kantor.
+
